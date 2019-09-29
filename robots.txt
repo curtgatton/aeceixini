@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeshoodero.lauramccartney.co.uk/sitemap.xml
